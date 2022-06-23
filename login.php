@@ -1,10 +1,11 @@
+<!DOCTYPE html>
+<html>
 <?php
   include "inc/koneksi.php";
    
 ?>
 
-<!DOCTYPE html>
-<html>
+
 
 <head>
 	<meta charset="utf-8">
